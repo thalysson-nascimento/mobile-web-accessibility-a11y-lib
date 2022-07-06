@@ -2,6 +2,12 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "@mobile-web-accessibility-a11y/angular-lib": [
+        "dist/mobile-web-accessibility-a11y/angular-lib/mobile-web-accessibility-a11y-angular-lib",
+        "dist/mobile-web-accessibility-a11y/angular-lib"
+      ]
+    },
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
