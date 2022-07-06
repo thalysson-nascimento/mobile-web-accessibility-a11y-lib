@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Watch lib develop
 
-Run `ng watch` for a deve server localhost.
+Run `npm run watch` for server localhost.
 
 ## Code scaffolding
 
