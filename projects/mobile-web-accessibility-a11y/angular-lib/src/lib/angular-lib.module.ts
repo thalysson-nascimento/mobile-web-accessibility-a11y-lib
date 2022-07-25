@@ -1,9 +1,8 @@
 import { NgModule } from '@angular/core';
-import { FocusSwipeMobileModule } from './directives/focus-swipe-mobile.module';
 
 @NgModule({
   declarations: [],
-  imports: [FocusSwipeMobileModule],
+  imports: [],
   exports: [],
 })
 export class AngularLibModule {}
